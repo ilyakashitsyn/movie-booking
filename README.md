@@ -2,6 +2,8 @@
 
 Display movie choices and seats in a theater to select from in order to purchase tickets
 
+You can check out the ready-made solution on [Netlify](https://movie-booking-32cbd3.netlify.app/)
+
 ### Project Specifications
 
 - Display UI with movie select, screen, seats, legend & seat info
